@@ -1,5 +1,8 @@
-# 💫 About Me:
-Undergraduate student
+<!-------------------------------------------------------Hey, I'm Antony Vincent------------------------------>
+<div align="center">
+    <h1>Hey, I am Antony Vincent</a> (He/Him/His) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</h1>
+</div>
 
 
 ## 🌐 Socials:
