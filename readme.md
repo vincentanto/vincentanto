@@ -2,7 +2,7 @@
 <div align="center">
     <h1>Hey, I am Antony Vincent</a> (He/Him/His) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
-</div>
+
 
 
 ## 🌐 Socials:
@@ -24,3 +24,5 @@
 [![](https://visitcount.itsvg.in/api?id=vincentanto&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
